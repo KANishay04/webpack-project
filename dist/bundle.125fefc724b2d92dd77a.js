@@ -1,0 +1,2 @@
+(()=>{var e,t;e=document.getElementById("menu-toggle"),t=document.getElementById("nav-menu"),e&&t&&e.addEventListener("click",(function(){t.classList.toggle("show")}))})();
+//# sourceMappingURL=bundle.125fefc724b2d92dd77a.js.map
